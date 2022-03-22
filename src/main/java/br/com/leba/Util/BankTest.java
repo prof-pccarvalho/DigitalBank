@@ -1,4 +1,4 @@
-package Util;
+package br.com.leba.Util;
 
 import br.com.leba.Bank.Bank;
 
